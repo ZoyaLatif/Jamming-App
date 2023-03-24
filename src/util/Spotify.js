@@ -1,6 +1,6 @@
 
 
-const clientId = 'f6fcefb121544f3b8b407596ff0bc150';
+const clientId = 'your client id';
 const redirectUri = 'http://localhost:3000/callback/';
 
 
